@@ -1,5 +1,7 @@
 # sml-pharmaco
 
+[![CI](https://github.com/sjqtentacles/sml-pharmaco/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-pharmaco/actions/workflows/ci.yml)
+
 Zero-dependency Standard ML library for pharmacokinetic calculations.
 
 ## API
